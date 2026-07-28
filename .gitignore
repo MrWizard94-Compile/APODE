@@ -1,0 +1,10 @@
+# Local configuration and editor state are not product source.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
